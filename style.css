@@ -150,14 +150,17 @@ margin-bottom: 2rem;
         padding: 2rem 0rem;
     }
     .label-score {
+        margin-bottom: -10rem;
         font-size: 1.5rem;
     }
     .label-highscore {
         font-size: 1.5rem;
+                margin-top: 9em;
+
     }
     .check {
         width: 40%;
         position: absolute;
-        top: 50rem;
+        top: 52rem;
     }
 }
